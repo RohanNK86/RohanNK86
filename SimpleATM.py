@@ -4,7 +4,7 @@ name = str(input("Enter your name : "))
 
 if(ID == 12345):
     print("Welcome to SBI Bank",name)
-    balance1 = int(10000)
+    balance1 = 10000
     print("Your current balance is :",balance1)
     print("1-Credit\n2-Debit")
    
@@ -15,12 +15,16 @@ if(ID == 12345):
         print("Your total balance is :",amn1+balance1)
     elif(ch == 2): 
         amn2 = int(input("Enter the Amount to be Debited : "))
-        print("Your total balance is :",balance1-amn2)
-
-  elif(ID == 13579):
+        if(amn2 <= 10000):
+         print("Your total balance is :",balance1-amn2)
+        elif(amn2 > 10000):
+          print("Insufficient Balance to Debit")
+      
+    
+elif(ID == 13579):
     print("Welcome to HDFC Bank",name)
-    balance2 = int(5000)
-    print("Your curre55nt balance is :",balance2)
+    balance2 = 5000
+    print("Your current balance is :",balance2)
     print("Enter\n1-Credit\n2-Debit")
    
     ch = int(input("Enter the choice : "))
@@ -30,4 +34,11 @@ if(ID == 12345):
         print("Your total balance is :",amn1+balance2)
     elif(ch == 2): 
         amn2 = int(input("Enter the Amount to be Debited : "))
-        print("Your total balance is :",balance2-amn2)
+        if(amn2 <= 5000):
+         print("Your total balance is :",balance2-amn2)
+        elif(amn2 > 5000):
+          print("Insufficient Balance to Debit")
+else:
+  print("Ener a valid Pin")
+    
+    
