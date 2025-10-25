@@ -15,7 +15,7 @@
 
 ## 🏆 Achievements & Hackathons
 - 🥇 Participated in *Samsung Gen AI Hackathon 2025* with project NPC Genie: Game Buddy and Lore Dropper  
-- 🚀 Built projects like *Ground Water Analysis Model, **Rock Paper Scissors Game, **SIH App*  
+- 🚀 Built projects like *Ground Water Analysis Model, **Rock Paper Scissors Game**
 - ⭐ Always curious to *research, build, and share knowledge*  
 
 ---
