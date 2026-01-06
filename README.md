@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3EB489&center=true&vCenter=true&width=600&lines=Hey+there+👋,+I'm+Rohan+NKaradigudd;AI+%26+Web+Dev+Enthusiast;2nd+Year+CSE+Student;Passionate+about+ML+%7C+AI+%7C+DSA;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3EB489&center=true&vCenter=true&width=600&lines=Hey+there+👋,+I'm+Rohan+N+Karadigudd;AI+%26+Web+Dev+Enthusiast;2nd+Year+CSE+Student;Passionate+about+ML+%7C+AI+%7C+DSA;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,8 @@
 ## 🏆 Achievements & Hackathons
 - 🥇 Participated in *Samsung Gen AI Hackathon 2025* with project NPC Genie: Game Buddy and Lore Dropper  
 - 🚀 Built projects like *Ground Water Analysis Model, **Rock Paper Scissors Game**
-- ⭐ Always curious to *research, build, and share knowledge*  
+- ⭐ Always curious to *research, build, and share knowledge*
+- 💻 Secured 1st Place in Navigation UI/UX Designing Hackathon
 
 ---
 
