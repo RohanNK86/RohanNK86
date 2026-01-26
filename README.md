@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 2nd Year *CSE (AI)* Student  
+- 🎓 2nd Year *CSE (Artificial Intelligence and Machine Learning)* Student at MSRIT
 - 💻 Passionate about *Machine Learning | Web Development | Backend Engineering*  
 - 🛠 Exploring *Full-Stack Development, AI Models & Hackathons*  
 - ⚡ Love building *apps, chatbots, games, and real-world solutions*  
