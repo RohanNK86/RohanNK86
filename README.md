@@ -30,12 +30,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanNK86&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanNK86&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RohanNK86&show_icons=true&theme=radical&rank_icon=github" height="170px" alt="Rohan's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanNK86&theme=radical" height="170px" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNK86&layout=compact&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNK86&layout=compact&theme=radical" height="170px" alt="Top Languages"/>
 </p>
 
 ---
