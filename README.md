@@ -26,7 +26,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,react,html,css,tailwind,git,github,mongodb,mysql,vscode,notion,c,dart,figma,postman" />
 </p>
 
----
 
 ---
 
@@ -42,7 +41,6 @@
 
 ---
 
----
 
 ## 🌐 Connect with Me
 <p align="center">
