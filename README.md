@@ -39,8 +39,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNK86&layout=compact&theme=radical" height="175" alt="Top Languages" />
 </p>
 
----
 
+---
 
 ## 🌐 Connect with Me
 <p align="center">
@@ -54,5 +54,5 @@
 ## ⚡ Fun Quote
 > "Code, Create, Conquer 🚀 — Keep building until your dreams compile without errors!"
 
-
+---
 
