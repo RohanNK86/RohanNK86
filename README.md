@@ -14,7 +14,7 @@
 ---
 
 ## 🏆 Achievements & Hackathons
-- ✅ Participated in **GSSoC 2025** for (Open Source Contribution)
+- ✅ Participated in **GSSoC 2025** for (Open Source Contribution), **Google Big Code 2026**
 - 🥇 Participated in **Samsung Gen AI Hackathon 2025** with project **NPC Genie: Game Buddy and Lore Dropper**  
 - 🚀 Built projects like **AI Chatbot Using Gemini API Keys**,**Ground Water Analysis Model**, **Rock Paper Scissors Game**, **Kyphosis Prediction Model**  
 - 💻 Secured **1st Place in Navigation UI/UX Designing Hackathon**  
