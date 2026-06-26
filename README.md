@@ -24,7 +24,7 @@
 
 ## 🔧 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,react,html,css,tailwind,c,git,github,mongodb,mysql,vscode,figma,postman,dart&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,react,html,css,tailwind,c,git,github,mongodb,mysql,vscode,figma,postman,dart, kotlin&perline=8" />
 </p>
 
 ---
