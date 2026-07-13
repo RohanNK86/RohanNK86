@@ -86,7 +86,7 @@ Interactive game built with Python.
 <br><br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNK86&layout=compact&theme=radical&hide_border=true&langs_count=10&cache_seconds=60" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNK86&layout=compact&theme=radical&hide_border=true&cache_seconds=60"/>
 </p>
 
 </div>
