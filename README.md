@@ -43,6 +43,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNK86&layout=compact&theme=radical&hide_border=true&langs_count=20&cache_seconds=86400" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RohanNK86/github-stats/generated/overview.svg" height="170"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RohanNK86/github-stats/generated/languages.svg" />
+</p>
 ---
 
 ## 🌐 Connect with Me
