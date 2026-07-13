@@ -43,5 +43,6 @@
   </a>
 </p>
 ---
+
 ## ⚡ Fun Quote
-> "Code. Create. Conquer 🚀 — Build until your dreams compile without errors!"
+"Code. Create. Conquer 🚀 — Build until your dreams compile without errors!"
