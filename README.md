@@ -47,9 +47,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RohanNK86&theme=radical&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNK86&layout=compact&theme=radical&hide_border=true&langs_count=20" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNK86&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
