@@ -52,18 +52,14 @@ I am a **2nd Year CSE (Artificial Intelligence & Machine Learning)** student at 
 
 ### 📊 GitHub Analytics
 
-*(Themes updated to `tokyonight` for a modern, sleek aesthetic, and servers updated to prevent API crashes)*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RohanNK86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&random=1" height="165" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=RohanNK86&theme=tokyonight&hide_border=true&cache_seconds=1800&random=1" height="165" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanNK86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=RohanNK86&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNK86&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNK86&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800&random=1" alt="Top Languages" />
+</p>
 
 ---
 
