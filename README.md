@@ -52,9 +52,9 @@ I am a **2nd Year CSE (Artificial Intelligence & Machine Learning)** student at 
 
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=RohanNK86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats-git-master-rohannk86s-projects.vercel.app/api?username=RohanNK86&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" height="165" alt="GitHub Stats" />
 <img src="https://streak-stats.demolab.com?user=RohanNK86&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNK86&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
+<img src="https://github-readme-stats-git-master-rohannk86s-projects.vercel.app/api/top-langs/?username=RohanNK86&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=86400" alt="Top Languages" />
 
 ---
 
