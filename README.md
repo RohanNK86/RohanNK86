@@ -33,7 +33,7 @@ I am a **2nd Year CSE (Artificial Intelligence & Machine Learning)** student at 
 | 🌟 Highlight | 📝 Description |
 | :--- | :--- |
 | **Google Student Ambassador** | Selected as an ambassador for **2026**. |
-| **Open Source** | Active contributor in **GSSoC 2025** and **NSoC 2026** (Nexus Spring of Code). |
+| **Open Source** | Active contributor in **GSSoC 2025**, **NSoC 2026** (Nexus Spring of Code), **Cognee.ai**. |
 | **Hackathon Winner** | Secured **1st Place** in Navigation UI/UX Designing Hackathon. |
 | **Samsung Gen AI Hackathon** | Competed in 2025 with the project: *NPC Genie: Game Buddy and Lore Dropper*. |
 
