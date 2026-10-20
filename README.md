@@ -41,11 +41,11 @@ I am a **2nd Year CSE (Artificial Intelligence & Machine Learning)** student at 
 
 ### 🚀 Featured Projects
 
-*   🤖 **AI Chatbot:** Built using the powerful Gemini API.
+*   🤖 **MultiModel AI Chat Bot:** Built using the powerful Gemini, NVIDIA Nemotron, Groq, Claude, OpenAI.
 *   💻 **VS Code Extension:** Designed for business productivity leveraging AWS Bedrock & Gemini LLM.
 *   🌍 **Ground Water Analysis Model:** Machine learning model for environmental data prediction.
 *   ⚕️ **Kyphosis Prediction Model:** Healthcare-focused predictive model.
-*   🛡️ **Spam/Ham Detection:** NLP-based text classification system.
+*   🛡️ **Spam/Ham Detection:** NLP-based text classification system using TF-IDF Pipeline,
 *   🎮 **Rock Paper Scissors:** Interactive, logic-based game.
 
 ---
