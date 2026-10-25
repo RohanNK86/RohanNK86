@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **2nd Year CSE (Artificial Intelligence & Machine Learning)** student at **MSRIT**, constantly exploring the intersection of AI models, full-stack engineering, and cloud technologies. 
+I am a **3rd Year CSE (Artificial Intelligence & Machine Learning)** student at **MSRIT**, constantly exploring the intersection of AI models, full-stack engineering, and cloud technologies. 
 
 - 🎓 **Currently Learning:** Advanced DSA, Neural Networks, and Large Language Models (LLMs).
 - 💡 **Interests:** Machine Learning, Full-Stack Development, Backend Engineering, Cloud Computing, & DevOps.
