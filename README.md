@@ -23,7 +23,7 @@ I am a **2nd Year CSE (Artificial Intelligence & Machine Learning)** student at 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,react,html,css,tailwind,c,git,github,mongodb,mysql,vscode,figma,postman,dart,kotlin&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,nodejs,react,html,css,tailwind,c,git,github,mongodb,mysql,vscode,docker,figma,postman,dart,kotlin&perline=10" alt="Tech Stack" />
 </div>
 
 ---
